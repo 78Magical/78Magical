@@ -15,7 +15,7 @@ Web Developer, Designer, Gamer
 <a href="https://www.github.com/78Magical" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/78Magical?logo=github&style=for-the-badge&color=6366f1&labelColor=1e3a8a" /></a>
 
-### Skills
+### Skill
 
 <p align="left">
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
